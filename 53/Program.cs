@@ -53,3 +53,4 @@ Console.WriteLine();
 PrintBinaryArray(userArray);
 
 
+
